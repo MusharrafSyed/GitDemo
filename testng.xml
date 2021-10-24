@@ -5,6 +5,8 @@
     <classes>
       <class name="qaclickacademy.AppiumTest"/>
       <class name="qaclickacademy.SeleniumTest"/>
+	   <class name="qaclickacademy.SeleniumTest123"/>
+	     <class name="qaclickacademy.SeleniumTest1234"/>
       </classes>
   </test>
 </suite>
