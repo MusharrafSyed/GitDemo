@@ -7,6 +7,10 @@
       <class name="qaclickacademy.SeleniumTest"/>
 	   <class name="qaclickacademy.SeleniumTest123"/>
 	     <class name="qaclickacademy.SeleniumTest1234"/>
+		 	   <class name="qaclickacademy.SeleniumTest123 hello"/>
+	     <class name="qaclickacademy.SeleniumTest1234Hello 123"/>
+		 
+		 
       </classes>
   </test>
 </suite>
