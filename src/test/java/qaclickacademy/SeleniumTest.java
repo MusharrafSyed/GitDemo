@@ -23,7 +23,12 @@ public class SeleniumTest {
 		System.out.println("ElementUR22L");
 		
 	}
-	
+	@Test
+	public void pringInterest()
+	{
+		System.out.println("Interset is 78");
+		fdgdfg
+	}
 	
 }
   
