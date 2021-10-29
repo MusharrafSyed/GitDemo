@@ -27,7 +27,7 @@ public class SeleniumTest {
 	public void pringInterest()
 	{
 		System.out.println("Interset is 78");
-		fdgdfg
+		System.out.println("Interset dfasdfis 78");
 	}
 	
 }
