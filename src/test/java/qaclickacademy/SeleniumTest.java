@@ -16,5 +16,14 @@ public class SeleniumTest {
 		System.out.println("ElementURL");
 		
 	}
+	
+	@Test
+	public void ElementURL22()
+	{
+		System.out.println("ElementUR22L");
+		
+	}
+	
+	
 }
   
